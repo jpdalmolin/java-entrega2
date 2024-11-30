@@ -49,9 +49,9 @@
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
-			<version>1.16.18</version>
-			<type>jar</type>
+        <artifactId>lombok</artifactId>
+        <!--$NO-MVN-MAN-VER$--><!--$NO-MVN-MAN-VER$-->
+        <scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.mysql</groupId>
